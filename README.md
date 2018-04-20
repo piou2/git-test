@@ -14,7 +14,7 @@ function(){
 ```
 
 *italique*
-**gras**
+**gras OTOTO**
 __souligné__
 
 du code `dans du` texte
